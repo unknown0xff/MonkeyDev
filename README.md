@@ -13,7 +13,7 @@ Plese Read Wiki: [Wiki](https://github.com/AloneMonkey/MonkeyDev/wiki)
 
 
 # Install
-sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/AloneMonkey/MonkeyDev/master/bin/md-install)"
+sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/unknown0xff/MonkeyDev/master/bin/md-install)"
 
 # Uninstall
-sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/AloneMonkey/MonkeyDev/master/bin/md-uninstall)"
+sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/unknown0xff/MonkeyDev/master/bin/md-uninstall)"
